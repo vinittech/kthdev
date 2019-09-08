@@ -1,0 +1,8 @@
+prefix=/home/vinitjain/kthfsdv/install
+
+Name: sub
+Description: Description of sub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vinitjain/kthfsdv/install/lib 
+Requires: 

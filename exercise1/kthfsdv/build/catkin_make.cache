@@ -1,0 +1,2 @@
+exc1/pub:exc1/sub
+-DCATKIN_DEVEL_PREFIX=/home/vinitjain/kthfsdv/devel -DCMAKE_INSTALL_PREFIX=/home/vinitjain/kthfsdv/install -G Unix Makefiles
