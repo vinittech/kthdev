@@ -41,6 +41,7 @@ class Periodic(object):
                     points.set_data(self.x, self.y)
                 plt.pause(0.00001)
 
+
         def saveFile(self,val):
             """ Storing the data into a file
             @param val: Boolean Value
@@ -60,5 +61,5 @@ if __name__ == "__main__":
     run = Periodic(int(time))
     run.formula()
     run.plot()
-    store = bool(input("Do you want to save the data? Y/N ?"))
+    store = bool(input("Do you want to save the data? 1/0 ?"))
     run.saveFile(store)
