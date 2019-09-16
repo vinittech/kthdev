@@ -3,8 +3,11 @@
 
 Following are the two solutions. Packages required are Numpy and OpenCv. Run the solution using the following commands.
 ```shell
-1) python solution1.py
-2) python solution2.py
+python solution1.py
+```
+
+```shell
+python solution2.py
 ```
 
 First solution is using image processing techniques, and the solution is using template matching.
