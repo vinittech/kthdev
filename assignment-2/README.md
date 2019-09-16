@@ -1,7 +1,7 @@
 # Assignment -2
 
 
-Following are the two solutions. Packages required are Numpy and OpenCv.
+Following are the two solutions. Packages required are Numpy and OpenCv. Run the solution using the following commands.
 ```shell
 1) python solution1.py
 2) python solution2.py
