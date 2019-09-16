@@ -10,5 +10,5 @@ python solution1.py
 python solution2.py
 ```
 
-First solution is using image processing techniques, and the solution is using template matching.
-The solution was tested on this [video](https://drive.google.com/drive/folders/13DDJDv3dqWqJplUSyqZYQu_vjnNx_VTo). Both the solutions don't work 100%, but they still detect most of them.
+First solution(solution1.py) is using image processing techniques, and the second solution(solution2.py) is using template matching.
+The solutions were tested on this [video](https://drive.google.com/drive/folders/13DDJDv3dqWqJplUSyqZYQu_vjnNx_VTo). Both the solutions don't work 100%, but they still detect most of the cones.
