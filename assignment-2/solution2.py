@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -75,14 +69,5 @@ def main():
     cv2.destroyAllWindows()
             
     
-
-    
 if __name__ == '__main__':
     main()
-
-
-# In[ ]:
-
-
-
-
