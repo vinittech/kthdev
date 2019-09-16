@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import cv2
 import numpy as np
 
@@ -72,40 +66,3 @@ def main():
        
 if __name__ == '__main__':
     main()
-
-
-# In[4]:
-
-
-
-
-
-# In[6]:
-
-
-
-
-
-# In[7]:
-
-
-
-
-
-# In[8]:
-
-
-
-
-
-# In[9]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
